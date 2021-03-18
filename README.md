@@ -1,2 +1,2 @@
 # web_dev
-A modern landing page to practice htmll, css , js and flexbox.
+A modern landing page to practice html, css , js and flexbox.
